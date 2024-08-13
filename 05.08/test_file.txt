@@ -1,0 +1,2 @@
+toto je obsah souboru text_file.txt
+HELLO FROM PYTHON
