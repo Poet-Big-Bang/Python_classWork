@@ -3,4 +3,4 @@ def udelej_nakup(kdo: str,obchod: str,co: list):
 
 
 udelej_nakup('mamka', 'Lidl', [])
-udelej_nakup('tata', 'Lidl', [])
+udelej_nakup('tata', 'Lidl', [])о
